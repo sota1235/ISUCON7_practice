@@ -1,0 +1,3737 @@
+- uri: /js/tether.min.js
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 24632
+  min_body: 24632
+  sum_body: 1.945928e+06
+  avg_body: 24632
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /js/bootstrap.min.js
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 46653
+  min_body: 46653
+  sum_body: 3.685587e+06
+  avg_body: 46653
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /fonts/glyphicons-halflings-regular.eot
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 20127
+  min_body: 20127
+  sum_body: 1.590033e+06
+  avg_body: 20127
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /fonts/glyphicons-halflings-regular.svg
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 108738
+  min_body: 108738
+  sum_body: 8.590302e+06
+  avg_body: 108738
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /fonts/glyphicons-halflings-regular.ttf
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 45404
+  min_body: 45404
+  sum_body: 3.586916e+06
+  avg_body: 45404
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /css/bootstrap.min.css
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 150996
+  min_body: 150996
+  sum_body: 1.1928684e+07
+  avg_body: 150996
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /fonts/glyphicons-halflings-regular.woff
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 23424
+  min_body: 23424
+  sum_body: 1.850496e+06
+  avg_body: 23424
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /fonts/glyphicons-halflings-regular.woff2
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 18028
+  min_body: 18028
+  sum_body: 1.424212e+06
+  avg_body: 18028
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /js/jquery.min.js
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 86659
+  min_body: 86659
+  sum_body: 6.846061e+06
+  avg_body: 86659
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /favicon.ico
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 318
+  min_body: 318
+  sum_body: 25122
+  avg_body: 318
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /css/main.css
+  cnt: 79
+  max: 0
+  min: 0
+  sum: 0
+  anv: 0
+  method: GET
+  max_body: 1741
+  min_body: 1741
+  sum_body: 137539
+  avg_body: 1741
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0
+- uri: /profile/ogura_nagatoshi
+  cnt: 1
+  max: 0.001
+  min: 0.001
+  sum: 0.001
+  anv: 0.001
+  method: GET
+  max_body: 32
+  min_body: 32
+  sum_body: 32
+  avg_body: 32
+  percentails:
+  - requesttime: 0.001
+  p1: 0.001
+  p50: 0.001
+  p99: 0.001
+  stddev: 0
+- uri: /js/chat.js
+  cnt: 79
+  max: 0.002
+  min: 0
+  sum: 0.002
+  anv: 2.5316456e-05
+  method: GET
+  max_body: 4162
+  min_body: 4162
+  sum_body: 328798
+  avg_body: 4162
+  percentails:
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0
+  - requesttime: 0.002
+  p1: 0
+  p50: 0
+  p99: 0
+  stddev: 0.00022358888
+- uri: /profile/FMoWdiTskZoQJMqrTICTojIYxyeSxZyf
+  cnt: 1
+  max: 0.02
+  min: 0.02
+  sum: 0.02
+  anv: 0.02
+  method: GET
+  max_body: 5
+  min_body: 5
+  sum_body: 5
+  avg_body: 5
+  percentails:
+  - requesttime: 0.02
+  p1: 0.02
+  p50: 0.02
+  p99: 0.02
+  stddev: 0
+- uri: /channel/5
+  cnt: 2
+  max: 0.021
+  min: 0.009
+  sum: 0.03
+  anv: 0.015
+  method: GET
+  max_body: 3058
+  min_body: 3055
+  sum_body: 6113
+  avg_body: 3056.5
+  percentails:
+  - requesttime: 0.009
+  - requesttime: 0.021
+  p1: 0.009
+  p50: 0.009
+  p99: 0.009
+  stddev: 0.006
+- uri: /history/5
+  cnt: 1
+  max: 0.026
+  min: 0.026
+  sum: 0.026
+  anv: 0.026
+  method: GET
+  max_body: 8790
+  min_body: 8790
+  sum_body: 8790
+  avg_body: 8790
+  percentails:
+  - requesttime: 0.026
+  p1: 0.026
+  p50: 0.026
+  p99: 0.026
+  stddev: 0
+- uri: /
+  cnt: 2
+  max: 0.037
+  min: 0.002
+  sum: 0.039
+  anv: 0.0195
+  method: GET
+  max_body: 883
+  min_body: 883
+  sum_body: 1766
+  avg_body: 883
+  percentails:
+  - requesttime: 0.002
+  - requesttime: 0.037
+  p1: 0.002
+  p50: 0.002
+  p99: 0.002
+  stddev: 0.0175
+- uri: /add_channel
+  cnt: 94
+  max: 0.04
+  min: 0.003
+  sum: 0.526
+  anv: 0.0055957446
+  method: POST
+  max_body: 38
+  min_body: 5
+  sum_body: 3494
+  avg_body: 37.17021
+  percentails:
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.007
+  - requesttime: 0.007
+  - requesttime: 0.007
+  - requesttime: 0.007
+  - requesttime: 0.008
+  - requesttime: 0.009
+  - requesttime: 0.009
+  - requesttime: 0.01
+  - requesttime: 0.01
+  - requesttime: 0.011
+  - requesttime: 0.012
+  - requesttime: 0.013
+  - requesttime: 0.014
+  - requesttime: 0.014
+  - requesttime: 0.016
+  - requesttime: 0.04
+  p1: 0.003
+  p50: 0.004
+  p99: 0.016
+  stddev: 0.0044106236
+- uri: /channel/1
+  cnt: 3
+  max: 0.046
+  min: 0.004
+  sum: 0.066
+  anv: 0.022
+  method: GET
+  max_body: 3051
+  min_body: 32
+  sum_body: 3115
+  avg_body: 1038.3334
+  percentails:
+  - requesttime: 0.004
+  - requesttime: 0.016
+  - requesttime: 0.046
+  p1: 0.004
+  p50: 0.004
+  p99: 0.016
+  stddev: 0.017663522
+- uri: /history/370
+  cnt: 1
+  max: 0.049
+  min: 0.049
+  sum: 0.049
+  anv: 0.049
+  method: GET
+  max_body: 2914
+  min_body: 2914
+  sum_body: 2914
+  avg_body: 2914
+  percentails:
+  - requesttime: 0.049
+  p1: 0.049
+  p50: 0.049
+  p99: 0.049
+  stddev: 0
+- uri: /profile/udagawa_hanako
+  cnt: 4
+  max: 0.056
+  min: 0.007
+  sum: 0.087
+  anv: 0.02175
+  method: GET
+  max_body: 3171
+  min_body: 2963
+  sum_body: 12265
+  avg_body: 3066.25
+  percentails:
+  - requesttime: 0.007
+  - requesttime: 0.011
+  - requesttime: 0.013
+  - requesttime: 0.056
+  p1: 0.007
+  p50: 0.011
+  p99: 0.013
+  stddev: 0.019891895
+- uri: /register
+  cnt: 2
+  max: 0.058
+  min: 0.036
+  sum: 0.094
+  anv: 0.047
+  method: GET
+  max_body: 911
+  min_body: 911
+  sum_body: 1822
+  avg_body: 911
+  percentails:
+  - requesttime: 0.036
+  - requesttime: 0.058
+  p1: 0.036
+  p50: 0.036
+  p99: 0.036
+  stddev: 0.011
+- uri: /login
+  cnt: 2
+  max: 0.092
+  min: 0.003
+  sum: 0.095
+  anv: 0.0475
+  method: GET
+  max_body: 905
+  min_body: 905
+  sum_body: 1810
+  avg_body: 905
+  percentails:
+  - requesttime: 0.003
+  - requesttime: 0.092
+  p1: 0.003
+  p50: 0.003
+  p99: 0.003
+  stddev: 0.0445
+- uri: /initialize
+  cnt: 1
+  max: 0.104
+  min: 0.104
+  sum: 0.104
+  anv: 0.104
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.104
+  p1: 0.104
+  p50: 0.104
+  p99: 0.104
+  stddev: 0
+- uri: /channel/356
+  cnt: 1
+  max: 0.108
+  min: 0.108
+  sum: 0.108
+  anv: 0.108
+  method: GET
+  max_body: 3059
+  min_body: 3059
+  sum_body: 3059
+  avg_body: 3059
+  percentails:
+  - requesttime: 0.108
+  p1: 0.108
+  p50: 0.108
+  p99: 0.108
+  stddev: 0
+- uri: /channel/325
+  cnt: 1
+  max: 0.125
+  min: 0.125
+  sum: 0.125
+  anv: 0.125
+  method: GET
+  max_body: 3053
+  min_body: 3053
+  sum_body: 3053
+  avg_body: 3053
+  percentails:
+  - requesttime: 0.125
+  p1: 0.125
+  p50: 0.125
+  p99: 0.125
+  stddev: 0
+- uri: /channel/350
+  cnt: 1
+  max: 0.126
+  min: 0.126
+  sum: 0.126
+  anv: 0.126
+  method: GET
+  max_body: 3056
+  min_body: 3056
+  sum_body: 3056
+  avg_body: 3056
+  percentails:
+  - requesttime: 0.126
+  p1: 0.126
+  p50: 0.126
+  p99: 0.126
+  stddev: 0
+- uri: /logout
+  cnt: 26
+  max: 0.128
+  min: 0.001
+  sum: 0.801
+  anv: 0.030807693
+  method: GET
+  max_body: 27
+  min_body: 27
+  sum_body: 702
+  avg_body: 27
+  percentails:
+  - requesttime: 0.001
+  - requesttime: 0.001
+  - requesttime: 0.001
+  - requesttime: 0.001
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.016
+  - requesttime: 0.017
+  - requesttime: 0.023
+  - requesttime: 0.026
+  - requesttime: 0.034
+  - requesttime: 0.045
+  - requesttime: 0.076
+  - requesttime: 0.083
+  - requesttime: 0.086
+  - requesttime: 0.111
+  - requesttime: 0.126
+  - requesttime: 0.128
+  p1: 0.001
+  p50: 0.004
+  p99: 0.126
+  stddev: 0.04159051
+- uri: /channel/6
+  cnt: 1
+  max: 0.139
+  min: 0.139
+  sum: 0.139
+  anv: 0.139
+  method: GET
+  max_body: 3063
+  min_body: 3063
+  sum_body: 3063
+  avg_body: 3063
+  percentails:
+  - requesttime: 0.139
+  p1: 0.139
+  p50: 0.139
+  p99: 0.139
+  stddev: 0
+- uri: /channel/286
+  cnt: 1
+  max: 0.144
+  min: 0.144
+  sum: 0.144
+  anv: 0.144
+  method: GET
+  max_body: 3053
+  min_body: 3053
+  sum_body: 3053
+  avg_body: 3053
+  percentails:
+  - requesttime: 0.144
+  p1: 0.144
+  p50: 0.144
+  p99: 0.144
+  stddev: 0
+- uri: /add_channel
+  cnt: 3
+  max: 0.157
+  min: 0.002
+  sum: 0.18
+  anv: 0.06
+  method: GET
+  max_body: 3049
+  min_body: 32
+  sum_body: 3113
+  avg_body: 1037.6666
+  percentails:
+  - requesttime: 0.002
+  - requesttime: 0.021
+  - requesttime: 0.157
+  p1: 0.002
+  p50: 0.002
+  p99: 0.021
+  stddev: 0.06902657
+- uri: /channel/283
+  cnt: 2
+  max: 0.163
+  min: 0.117
+  sum: 0.28
+  anv: 0.14
+  method: GET
+  max_body: 3051
+  min_body: 3051
+  sum_body: 6102
+  avg_body: 3051
+  percentails:
+  - requesttime: 0.117
+  - requesttime: 0.163
+  p1: 0.117
+  p50: 0.117
+  p99: 0.117
+  stddev: 0.023
+- uri: /profile/fujioka_tatsuya
+  cnt: 1
+  max: 0.164
+  min: 0.164
+  sum: 0.164
+  anv: 0.164
+  method: GET
+  max_body: 3165
+  min_body: 3165
+  sum_body: 3165
+  avg_body: 3165
+  percentails:
+  - requesttime: 0.164
+  p1: 0.164
+  p50: 0.164
+  p99: 0.164
+  stddev: 0
+- uri: /profile/mizukami_riho
+  cnt: 1
+  max: 0.166
+  min: 0.166
+  sum: 0.166
+  anv: 0.166
+  method: GET
+  max_body: 3123
+  min_body: 3123
+  sum_body: 3123
+  avg_body: 3123
+  percentails:
+  - requesttime: 0.166
+  p1: 0.166
+  p50: 0.166
+  p99: 0.166
+  stddev: 0
+- uri: /profile/kadota_dankichi
+  cnt: 1
+  max: 0.199
+  min: 0.199
+  sum: 0.199
+  anv: 0.199
+  method: GET
+  max_body: 3166
+  min_body: 3166
+  sum_body: 3166
+  avg_body: 3166
+  percentails:
+  - requesttime: 0.199
+  p1: 0.199
+  p50: 0.199
+  p99: 0.199
+  stddev: 0
+- uri: /channel/348
+  cnt: 2
+  max: 0.203
+  min: 0.015
+  sum: 0.218
+  anv: 0.109
+  method: GET
+  max_body: 3056
+  min_body: 3056
+  sum_body: 6112
+  avg_body: 3056
+  percentails:
+  - requesttime: 0.015
+  - requesttime: 0.203
+  p1: 0.015
+  p50: 0.015
+  p99: 0.015
+  stddev: 0.094
+- uri: /channel/8
+  cnt: 1
+  max: 0.21
+  min: 0.21
+  sum: 0.21
+  anv: 0.21
+  method: GET
+  max_body: 3056
+  min_body: 3056
+  sum_body: 3056
+  avg_body: 3056
+  percentails:
+  - requesttime: 0.21
+  p1: 0.21
+  p50: 0.21
+  p99: 0.21
+  stddev: 0
+- uri: /channel/330
+  cnt: 1
+  max: 0.212
+  min: 0.212
+  sum: 0.212
+  anv: 0.212
+  method: GET
+  max_body: 3058
+  min_body: 3058
+  sum_body: 3058
+  avg_body: 3058
+  percentails:
+  - requesttime: 0.212
+  p1: 0.212
+  p50: 0.212
+  p99: 0.212
+  stddev: 0
+- uri: /profile/takehara_satoshi
+  cnt: 1
+  max: 0.216
+  min: 0.216
+  sum: 0.216
+  anv: 0.216
+  method: GET
+  max_body: 3168
+  min_body: 3168
+  sum_body: 3168
+  avg_body: 3168
+  percentails:
+  - requesttime: 0.216
+  p1: 0.216
+  p50: 0.216
+  p99: 0.216
+  stddev: 0
+- uri: /profile/konishi_akihiro
+  cnt: 1
+  max: 0.218
+  min: 0.218
+  sum: 0.218
+  anv: 0.218
+  method: GET
+  max_body: 3161
+  min_body: 3161
+  sum_body: 3161
+  avg_body: 3161
+  percentails:
+  - requesttime: 0.218
+  p1: 0.218
+  p50: 0.218
+  p99: 0.218
+  stddev: 0
+- uri: /register
+  cnt: 20
+  max: 0.24
+  min: 0.005
+  sum: 2.202
+  anv: 0.1101
+  method: POST
+  max_body: 27
+  min_body: 5
+  sum_body: 496
+  avg_body: 24.8
+  percentails:
+  - requesttime: 0.005
+  - requesttime: 0.009
+  - requesttime: 0.015
+  - requesttime: 0.015
+  - requesttime: 0.055
+  - requesttime: 0.064
+  - requesttime: 0.08
+  - requesttime: 0.085
+  - requesttime: 0.09
+  - requesttime: 0.096
+  - requesttime: 0.103
+  - requesttime: 0.109
+  - requesttime: 0.113
+  - requesttime: 0.13
+  - requesttime: 0.145
+  - requesttime: 0.172
+  - requesttime: 0.215
+  - requesttime: 0.222
+  - requesttime: 0.239
+  - requesttime: 0.24
+  p1: 0.005
+  p50: 0.096
+  p99: 0.239
+  stddev: 0.07388362
+- uri: /profile/fukaya_youko
+  cnt: 1
+  max: 0.241
+  min: 0.241
+  sum: 0.241
+  anv: 0.241
+  method: GET
+  max_body: 32
+  min_body: 32
+  sum_body: 32
+  avg_body: 32
+  percentails:
+  - requesttime: 0.241
+  p1: 0.241
+  p50: 0.241
+  p99: 0.241
+  stddev: 0
+- uri: /profile/kiuchi_kei
+  cnt: 1
+  max: 0.245
+  min: 0.245
+  sum: 0.245
+  anv: 0.245
+  method: GET
+  max_body: 3162
+  min_body: 3162
+  sum_body: 3162
+  avg_body: 3162
+  percentails:
+  - requesttime: 0.245
+  p1: 0.245
+  p50: 0.245
+  p99: 0.245
+  stddev: 0
+- uri: /profile/morii_mayuko
+  cnt: 1
+  max: 0.277
+  min: 0.277
+  sum: 0.277
+  anv: 0.277
+  method: GET
+  max_body: 3165
+  min_body: 3165
+  sum_body: 3165
+  avg_body: 3165
+  percentails:
+  - requesttime: 0.277
+  p1: 0.277
+  p50: 0.277
+  p99: 0.277
+  stddev: 0
+- uri: /channel/310
+  cnt: 1
+  max: 0.283
+  min: 0.283
+  sum: 0.283
+  anv: 0.283
+  method: GET
+  max_body: 3059
+  min_body: 3059
+  sum_body: 3059
+  avg_body: 3059
+  percentails:
+  - requesttime: 0.283
+  p1: 0.283
+  p50: 0.283
+  p99: 0.283
+  stddev: 0
+- uri: /profile/kusamura_keiko
+  cnt: 1
+  max: 0.294
+  min: 0.294
+  sum: 0.294
+  anv: 0.294
+  method: GET
+  max_body: 3164
+  min_body: 3164
+  sum_body: 3164
+  avg_body: 3164
+  percentails:
+  - requesttime: 0.294
+  p1: 0.294
+  p50: 0.294
+  p99: 0.294
+  stddev: 0
+- uri: /channel/9
+  cnt: 1
+  max: 0.304
+  min: 0.304
+  sum: 0.304
+  anv: 0.304
+  method: GET
+  max_body: 3060
+  min_body: 3060
+  sum_body: 3060
+  avg_body: 3060
+  percentails:
+  - requesttime: 0.304
+  p1: 0.304
+  p50: 0.304
+  p99: 0.304
+  stddev: 0
+- uri: /profile/yoshida_mantarou
+  cnt: 1
+  max: 0.307
+  min: 0.307
+  sum: 0.307
+  anv: 0.307
+  method: GET
+  max_body: 3168
+  min_body: 3168
+  sum_body: 3168
+  avg_body: 3168
+  percentails:
+  - requesttime: 0.307
+  p1: 0.307
+  p50: 0.307
+  p99: 0.307
+  stddev: 0
+- uri: /profile/horiguchi_toshiaki
+  cnt: 1
+  max: 0.318
+  min: 0.318
+  sum: 0.318
+  anv: 0.318
+  method: GET
+  max_body: 3169
+  min_body: 3169
+  sum_body: 3169
+  avg_body: 3169
+  percentails:
+  - requesttime: 0.318
+  p1: 0.318
+  p50: 0.318
+  p99: 0.318
+  stddev: 0
+- uri: /profile/nakane_yuu
+  cnt: 1
+  max: 0.319
+  min: 0.319
+  sum: 0.319
+  anv: 0.319
+  method: GET
+  max_body: 3162
+  min_body: 3162
+  sum_body: 3162
+  avg_body: 3162
+  percentails:
+  - requesttime: 0.319
+  p1: 0.319
+  p50: 0.319
+  p99: 0.319
+  stddev: 0
+- uri: /channel/334
+  cnt: 1
+  max: 0.325
+  min: 0.325
+  sum: 0.325
+  anv: 0.325
+  method: GET
+  max_body: 3063
+  min_body: 3063
+  sum_body: 3063
+  avg_body: 3063
+  percentails:
+  - requesttime: 0.325
+  p1: 0.325
+  p50: 0.325
+  p99: 0.325
+  stddev: 0
+- uri: /channel/328
+  cnt: 1
+  max: 0.332
+  min: 0.332
+  sum: 0.332
+  anv: 0.332
+  method: GET
+  max_body: 3053
+  min_body: 3053
+  sum_body: 3053
+  avg_body: 3053
+  percentails:
+  - requesttime: 0.332
+  p1: 0.332
+  p50: 0.332
+  p99: 0.332
+  stddev: 0
+- uri: /profile/kita_mitsuru
+  cnt: 1
+  max: 0.332
+  min: 0.332
+  sum: 0.332
+  anv: 0.332
+  method: GET
+  max_body: 3156
+  min_body: 3156
+  sum_body: 3156
+  avg_body: 3156
+  percentails:
+  - requesttime: 0.332
+  p1: 0.332
+  p50: 0.332
+  p99: 0.332
+  stddev: 0
+- uri: /profile/yakushimaru_tatsuhito
+  cnt: 1
+  max: 0.334
+  min: 0.334
+  sum: 0.334
+  anv: 0.334
+  method: GET
+  max_body: 3175
+  min_body: 3175
+  sum_body: 3175
+  avg_body: 3175
+  percentails:
+  - requesttime: 0.334
+  p1: 0.334
+  p50: 0.334
+  p99: 0.334
+  stddev: 0
+- uri: /history/1
+  cnt: 8
+  max: 0.347
+  min: 0.001
+  sum: 1.196
+  anv: 0.1495
+  method: GET
+  max_body: 8942
+  min_body: 32
+  sum_body: 48459
+  avg_body: 6057.375
+  percentails:
+  - requesttime: 0.001
+  - requesttime: 0.026
+  - requesttime: 0.03
+  - requesttime: 0.091
+  - requesttime: 0.138
+  - requesttime: 0.267
+  - requesttime: 0.296
+  - requesttime: 0.347
+  p1: 0.001
+  p50: 0.091
+  p99: 0.296
+  stddev: 0.12718785
+- uri: /profile/kimoto_shiori
+  cnt: 1
+  max: 0.37
+  min: 0.37
+  sum: 0.37
+  anv: 0.37
+  method: GET
+  max_body: 3167
+  min_body: 3167
+  sum_body: 3167
+  avg_body: 3167
+  percentails:
+  - requesttime: 0.37
+  p1: 0.37
+  p50: 0.37
+  p99: 0.37
+  stddev: 0
+- uri: /profile/yoshida_yuki
+  cnt: 1
+  max: 0.383
+  min: 0.383
+  sum: 0.383
+  anv: 0.383
+  method: GET
+  max_body: 3158
+  min_body: 3158
+  sum_body: 3158
+  avg_body: 3158
+  percentails:
+  - requesttime: 0.383
+  p1: 0.383
+  p50: 0.383
+  p99: 0.383
+  stddev: 0
+- uri: /channel/331
+  cnt: 10
+  max: 0.428
+  min: 0.286
+  sum: 3.51
+  anv: 0.351
+  method: GET
+  max_body: 3059
+  min_body: 3051
+  sum_body: 30550
+  avg_body: 3055
+  percentails:
+  - requesttime: 0.286
+  - requesttime: 0.318
+  - requesttime: 0.319
+  - requesttime: 0.336
+  - requesttime: 0.34
+  - requesttime: 0.354
+  - requesttime: 0.356
+  - requesttime: 0.381
+  - requesttime: 0.392
+  - requesttime: 0.428
+  p1: 0.286
+  p50: 0.34
+  p99: 0.392
+  stddev: 0.03902307
+- uri: /channel/299
+  cnt: 11
+  max: 0.434
+  min: 0.129
+  sum: 4.196
+  anv: 0.38145456
+  method: GET
+  max_body: 3066
+  min_body: 3050
+  sum_body: 33633
+  avg_body: 3057.5454
+  percentails:
+  - requesttime: 0.129
+  - requesttime: 0.311
+  - requesttime: 0.392
+  - requesttime: 0.402
+  - requesttime: 0.408
+  - requesttime: 0.416
+  - requesttime: 0.422
+  - requesttime: 0.422
+  - requesttime: 0.427
+  - requesttime: 0.433
+  - requesttime: 0.434
+  p1: 0.129
+  p50: 0.408
+  p99: 0.433
+  stddev: 0.08629164
+- uri: /profile/kase_hitomi
+  cnt: 1
+  max: 0.434
+  min: 0.434
+  sum: 0.434
+  anv: 0.434
+  method: GET
+  max_body: 3156
+  min_body: 3156
+  sum_body: 3156
+  avg_body: 3156
+  percentails:
+  - requesttime: 0.434
+  p1: 0.434
+  p50: 0.434
+  p99: 0.434
+  stddev: 0
+- uri: /channel/2
+  cnt: 20
+  max: 0.492
+  min: 0.203
+  sum: 6.141
+  anv: 0.30705
+  method: GET
+  max_body: 3065
+  min_body: 3048
+  sum_body: 61094
+  avg_body: 3054.7
+  percentails:
+  - requesttime: 0.203
+  - requesttime: 0.204
+  - requesttime: 0.21
+  - requesttime: 0.22
+  - requesttime: 0.233
+  - requesttime: 0.242
+  - requesttime: 0.248
+  - requesttime: 0.262
+  - requesttime: 0.269
+  - requesttime: 0.275
+  - requesttime: 0.282
+  - requesttime: 0.288
+  - requesttime: 0.291
+  - requesttime: 0.301
+  - requesttime: 0.324
+  - requesttime: 0.432
+  - requesttime: 0.439
+  - requesttime: 0.446
+  - requesttime: 0.48
+  - requesttime: 0.492
+  p1: 0.203
+  p50: 0.275
+  p99: 0.48
+  stddev: 0.093319066
+- uri: /channel/349
+  cnt: 2
+  max: 0.52
+  min: 0.211
+  sum: 0.731
+  anv: 0.3655
+  method: GET
+  max_body: 3055
+  min_body: 3053
+  sum_body: 6108
+  avg_body: 3054
+  percentails:
+  - requesttime: 0.211
+  - requesttime: 0.52
+  p1: 0.211
+  p50: 0.211
+  p99: 0.211
+  stddev: 0.1545
+- uri: /profile/koga_keisuke
+  cnt: 1
+  max: 0.528
+  min: 0.528
+  sum: 0.528
+  anv: 0.528
+  method: GET
+  max_body: 3167
+  min_body: 3167
+  sum_body: 3167
+  avg_body: 3167
+  percentails:
+  - requesttime: 0.528
+  p1: 0.528
+  p50: 0.528
+  p99: 0.528
+  stddev: 0
+- uri: /login
+  cnt: 242
+  max: 0.531
+  min: 0.002
+  sum: 15.141
+  anv: 0.06256612
+  method: POST
+  max_body: 27
+  min_body: 5
+  sum_body: 6446
+  avg_body: 26.636364
+  percentails:
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.002
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.003
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.004
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.006
+  - requesttime: 0.008
+  - requesttime: 0.008
+  - requesttime: 0.008
+  - requesttime: 0.008
+  - requesttime: 0.01
+  - requesttime: 0.011
+  - requesttime: 0.011
+  - requesttime: 0.011
+  - requesttime: 0.012
+  - requesttime: 0.012
+  - requesttime: 0.019
+  - requesttime: 0.02
+  - requesttime: 0.022
+  - requesttime: 0.024
+  - requesttime: 0.025
+  - requesttime: 0.026
+  - requesttime: 0.027
+  - requesttime: 0.028
+  - requesttime: 0.029
+  - requesttime: 0.03
+  - requesttime: 0.03
+  - requesttime: 0.037
+  - requesttime: 0.049
+  - requesttime: 0.059
+  - requesttime: 0.061
+  - requesttime: 0.062
+  - requesttime: 0.063
+  - requesttime: 0.064
+  - requesttime: 0.064
+  - requesttime: 0.065
+  - requesttime: 0.065
+  - requesttime: 0.066
+  - requesttime: 0.066
+  - requesttime: 0.067
+  - requesttime: 0.068
+  - requesttime: 0.069
+  - requesttime: 0.069
+  - requesttime: 0.069
+  - requesttime: 0.07
+  - requesttime: 0.07
+  - requesttime: 0.071
+  - requesttime: 0.071
+  - requesttime: 0.072
+  - requesttime: 0.073
+  - requesttime: 0.073
+  - requesttime: 0.073
+  - requesttime: 0.073
+  - requesttime: 0.073
+  - requesttime: 0.074
+  - requesttime: 0.074
+  - requesttime: 0.075
+  - requesttime: 0.076
+  - requesttime: 0.077
+  - requesttime: 0.079
+  - requesttime: 0.08
+  - requesttime: 0.081
+  - requesttime: 0.081
+  - requesttime: 0.082
+  - requesttime: 0.082
+  - requesttime: 0.083
+  - requesttime: 0.083
+  - requesttime: 0.084
+  - requesttime: 0.085
+  - requesttime: 0.087
+  - requesttime: 0.088
+  - requesttime: 0.09
+  - requesttime: 0.092
+  - requesttime: 0.093
+  - requesttime: 0.096
+  - requesttime: 0.097
+  - requesttime: 0.098
+  - requesttime: 0.099
+  - requesttime: 0.1
+  - requesttime: 0.102
+  - requesttime: 0.104
+  - requesttime: 0.106
+  - requesttime: 0.106
+  - requesttime: 0.106
+  - requesttime: 0.107
+  - requesttime: 0.108
+  - requesttime: 0.108
+  - requesttime: 0.108
+  - requesttime: 0.109
+  - requesttime: 0.109
+  - requesttime: 0.11
+  - requesttime: 0.11
+  - requesttime: 0.111
+  - requesttime: 0.111
+  - requesttime: 0.111
+  - requesttime: 0.111
+  - requesttime: 0.112
+  - requesttime: 0.112
+  - requesttime: 0.112
+  - requesttime: 0.112
+  - requesttime: 0.113
+  - requesttime: 0.114
+  - requesttime: 0.115
+  - requesttime: 0.116
+  - requesttime: 0.116
+  - requesttime: 0.117
+  - requesttime: 0.117
+  - requesttime: 0.118
+  - requesttime: 0.118
+  - requesttime: 0.119
+  - requesttime: 0.12
+  - requesttime: 0.12
+  - requesttime: 0.121
+  - requesttime: 0.122
+  - requesttime: 0.124
+  - requesttime: 0.125
+  - requesttime: 0.125
+  - requesttime: 0.126
+  - requesttime: 0.128
+  - requesttime: 0.128
+  - requesttime: 0.129
+  - requesttime: 0.129
+  - requesttime: 0.129
+  - requesttime: 0.13
+  - requesttime: 0.13
+  - requesttime: 0.131
+  - requesttime: 0.131
+  - requesttime: 0.134
+  - requesttime: 0.137
+  - requesttime: 0.137
+  - requesttime: 0.138
+  - requesttime: 0.14
+  - requesttime: 0.144
+  - requesttime: 0.144
+  - requesttime: 0.145
+  - requesttime: 0.146
+  - requesttime: 0.146
+  - requesttime: 0.146
+  - requesttime: 0.147
+  - requesttime: 0.16
+  - requesttime: 0.161
+  - requesttime: 0.167
+  - requesttime: 0.167
+  - requesttime: 0.172
+  - requesttime: 0.177
+  - requesttime: 0.178
+  - requesttime: 0.179
+  - requesttime: 0.179
+  - requesttime: 0.216
+  - requesttime: 0.217
+  - requesttime: 0.221
+  - requesttime: 0.264
+  - requesttime: 0.278
+  - requesttime: 0.531
+  p1: 0.002
+  p50: 0.063
+  p99: 0.221
+  stddev: 0.06737865
+- uri: /profile/konishi_kou
+  cnt: 1
+  max: 0.535
+  min: 0.535
+  sum: 0.535
+  anv: 0.535
+  method: GET
+  max_body: 3161
+  min_body: 3161
+  sum_body: 3161
+  avg_body: 3161
+  percentails:
+  - requesttime: 0.535
+  p1: 0.535
+  p50: 0.535
+  p99: 0.535
+  stddev: 0
+- uri: /profile/shimadu_natsumi
+  cnt: 1
+  max: 0.545
+  min: 0.545
+  sum: 0.545
+  anv: 0.545
+  method: GET
+  max_body: 3174
+  min_body: 3174
+  sum_body: 3174
+  avg_body: 3174
+  percentails:
+  - requesttime: 0.545
+  p1: 0.545
+  p50: 0.545
+  p99: 0.545
+  stddev: 0
+- uri: /history/312
+  cnt: 2
+  max: 0.593
+  min: 0.52
+  sum: 1.113
+  anv: 0.5565
+  method: GET
+  max_body: 2921
+  min_body: 2921
+  sum_body: 5842
+  avg_body: 2921
+  percentails:
+  - requesttime: 0.52
+  - requesttime: 0.593
+  p1: 0.52
+  p50: 0.52
+  p99: 0.52
+  stddev: 0.0365
+- uri: /history/339
+  cnt: 2
+  max: 0.624
+  min: 0.623
+  sum: 1.247
+  anv: 0.6235
+  method: GET
+  max_body: 2918
+  min_body: 2918
+  sum_body: 5836
+  avg_body: 2918
+  percentails:
+  - requesttime: 0.623
+  - requesttime: 0.624
+  p1: 0.623
+  p50: 0.623
+  p99: 0.623
+  stddev: 0.0005
+- uri: /channel/10
+  cnt: 20
+  max: 0.631
+  min: 0.255
+  sum: 9.25
+  anv: 0.4625
+  method: GET
+  max_body: 3070
+  min_body: 3052
+  sum_body: 61182
+  avg_body: 3059.1
+  percentails:
+  - requesttime: 0.255
+  - requesttime: 0.276
+  - requesttime: 0.287
+  - requesttime: 0.348
+  - requesttime: 0.355
+  - requesttime: 0.393
+  - requesttime: 0.399
+  - requesttime: 0.408
+  - requesttime: 0.416
+  - requesttime: 0.424
+  - requesttime: 0.488
+  - requesttime: 0.496
+  - requesttime: 0.504
+  - requesttime: 0.569
+  - requesttime: 0.588
+  - requesttime: 0.595
+  - requesttime: 0.598
+  - requesttime: 0.606
+  - requesttime: 0.614
+  - requesttime: 0.631
+  p1: 0.255
+  p50: 0.424
+  p99: 0.614
+  stddev: 0.119838014
+- uri: /profile/akutsu_hiroyuki
+  cnt: 1
+  max: 0.702
+  min: 0.702
+  sum: 0.702
+  anv: 0.702
+  method: GET
+  max_body: 3169
+  min_body: 3169
+  sum_body: 3169
+  avg_body: 3169
+  percentails:
+  - requesttime: 0.702
+  p1: 0.702
+  p50: 0.702
+  p99: 0.702
+  stddev: 0
+- uri: /profile/taguchi_masakazu
+  cnt: 1
+  max: 0.705
+  min: 0.705
+  sum: 0.705
+  anv: 0.705
+  method: GET
+  max_body: 3179
+  min_body: 3179
+  sum_body: 3179
+  avg_body: 3179
+  percentails:
+  - requesttime: 0.705
+  p1: 0.705
+  p50: 0.705
+  p99: 0.705
+  stddev: 0
+- uri: /message
+  cnt: 141
+  max: 0.722
+  min: 0.004
+  sum: 35.595
+  anv: 0.2524468
+  method: POST
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.004
+  - requesttime: 0.126
+  - requesttime: 0.13
+  - requesttime: 0.133
+  - requesttime: 0.137
+  - requesttime: 0.138
+  - requesttime: 0.138
+  - requesttime: 0.139
+  - requesttime: 0.139
+  - requesttime: 0.141
+  - requesttime: 0.141
+  - requesttime: 0.141
+  - requesttime: 0.142
+  - requesttime: 0.142
+  - requesttime: 0.143
+  - requesttime: 0.145
+  - requesttime: 0.145
+  - requesttime: 0.147
+  - requesttime: 0.148
+  - requesttime: 0.149
+  - requesttime: 0.149
+  - requesttime: 0.15
+  - requesttime: 0.15
+  - requesttime: 0.151
+  - requesttime: 0.153
+  - requesttime: 0.153
+  - requesttime: 0.154
+  - requesttime: 0.154
+  - requesttime: 0.157
+  - requesttime: 0.158
+  - requesttime: 0.158
+  - requesttime: 0.158
+  - requesttime: 0.159
+  - requesttime: 0.159
+  - requesttime: 0.16
+  - requesttime: 0.16
+  - requesttime: 0.16
+  - requesttime: 0.163
+  - requesttime: 0.168
+  - requesttime: 0.17
+  - requesttime: 0.17
+  - requesttime: 0.171
+  - requesttime: 0.172
+  - requesttime: 0.173
+  - requesttime: 0.173
+  - requesttime: 0.173
+  - requesttime: 0.174
+  - requesttime: 0.179
+  - requesttime: 0.184
+  - requesttime: 0.186
+  - requesttime: 0.186
+  - requesttime: 0.186
+  - requesttime: 0.187
+  - requesttime: 0.191
+  - requesttime: 0.193
+  - requesttime: 0.195
+  - requesttime: 0.198
+  - requesttime: 0.2
+  - requesttime: 0.2
+  - requesttime: 0.203
+  - requesttime: 0.203
+  - requesttime: 0.206
+  - requesttime: 0.207
+  - requesttime: 0.207
+  - requesttime: 0.207
+  - requesttime: 0.208
+  - requesttime: 0.209
+  - requesttime: 0.209
+  - requesttime: 0.211
+  - requesttime: 0.213
+  - requesttime: 0.216
+  - requesttime: 0.217
+  - requesttime: 0.219
+  - requesttime: 0.22
+  - requesttime: 0.22
+  - requesttime: 0.222
+  - requesttime: 0.223
+  - requesttime: 0.223
+  - requesttime: 0.223
+  - requesttime: 0.224
+  - requesttime: 0.226
+  - requesttime: 0.227
+  - requesttime: 0.231
+  - requesttime: 0.232
+  - requesttime: 0.238
+  - requesttime: 0.238
+  - requesttime: 0.244
+  - requesttime: 0.245
+  - requesttime: 0.246
+  - requesttime: 0.249
+  - requesttime: 0.249
+  - requesttime: 0.249
+  - requesttime: 0.253
+  - requesttime: 0.253
+  - requesttime: 0.255
+  - requesttime: 0.255
+  - requesttime: 0.256
+  - requesttime: 0.257
+  - requesttime: 0.261
+  - requesttime: 0.262
+  - requesttime: 0.263
+  - requesttime: 0.267
+  - requesttime: 0.268
+  - requesttime: 0.271
+  - requesttime: 0.281
+  - requesttime: 0.281
+  - requesttime: 0.288
+  - requesttime: 0.291
+  - requesttime: 0.296
+  - requesttime: 0.297
+  - requesttime: 0.299
+  - requesttime: 0.3
+  - requesttime: 0.305
+  - requesttime: 0.307
+  - requesttime: 0.307
+  - requesttime: 0.308
+  - requesttime: 0.309
+  - requesttime: 0.323
+  - requesttime: 0.33
+  - requesttime: 0.331
+  - requesttime: 0.335
+  - requesttime: 0.337
+  - requesttime: 0.337
+  - requesttime: 0.341
+  - requesttime: 0.344
+  - requesttime: 0.362
+  - requesttime: 0.364
+  - requesttime: 0.37
+  - requesttime: 0.376
+  - requesttime: 0.422
+  - requesttime: 0.474
+  - requesttime: 0.603
+  - requesttime: 0.616
+  - requesttime: 0.633
+  - requesttime: 0.716
+  - requesttime: 0.718
+  - requesttime: 0.719
+  - requesttime: 0.721
+  - requesttime: 0.722
+  - requesttime: 0.722
+  - requesttime: 0.722
+  p1: 0.004
+  p50: 0.213
+  p99: 0.722
+  stddev: 0.139795
+- uri: /profile/kuribayashi_kaori
+  cnt: 1
+  max: 0.722
+  min: 0.722
+  sum: 0.722
+  anv: 0.722
+  method: GET
+  max_body: 3171
+  min_body: 3171
+  sum_body: 3171
+  avg_body: 3171
+  percentails:
+  - requesttime: 0.722
+  p1: 0.722
+  p50: 0.722
+  p99: 0.722
+  stddev: 0
+- uri: /history/344
+  cnt: 2
+  max: 0.727
+  min: 0.568
+  sum: 1.295
+  anv: 0.6475
+  method: GET
+  max_body: 2915
+  min_body: 2915
+  sum_body: 5830
+  avg_body: 2915
+  percentails:
+  - requesttime: 0.568
+  - requesttime: 0.727
+  p1: 0.568
+  p50: 0.568
+  p99: 0.568
+  stddev: 0.0795
+- uri: /profile/nakaoka_ryouko
+  cnt: 1
+  max: 0.746
+  min: 0.746
+  sum: 0.746
+  anv: 0.746
+  method: GET
+  max_body: 3169
+  min_body: 3169
+  sum_body: 3169
+  avg_body: 3169
+  percentails:
+  - requesttime: 0.746
+  p1: 0.746
+  p50: 0.746
+  p99: 0.746
+  stddev: 0
+- uri: /profile/kiuchi_kadue
+  cnt: 1
+  max: 0.748
+  min: 0.748
+  sum: 0.748
+  anv: 0.748
+  method: GET
+  max_body: 3167
+  min_body: 3167
+  sum_body: 3167
+  avg_body: 3167
+  percentails:
+  - requesttime: 0.748
+  p1: 0.748
+  p50: 0.748
+  p99: 0.748
+  stddev: 0
+- uri: /profile/kumakura_tatsuya
+  cnt: 1
+  max: 0.754
+  min: 0.754
+  sum: 0.754
+  anv: 0.754
+  method: GET
+  max_body: 3169
+  min_body: 3169
+  sum_body: 3169
+  avg_body: 3169
+  percentails:
+  - requesttime: 0.754
+  p1: 0.754
+  p50: 0.754
+  p99: 0.754
+  stddev: 0
+- uri: /history/311
+  cnt: 2
+  max: 0.794
+  min: 0.457
+  sum: 1.251
+  anv: 0.6255
+  method: GET
+  max_body: 2915
+  min_body: 2915
+  sum_body: 5830
+  avg_body: 2915
+  percentails:
+  - requesttime: 0.457
+  - requesttime: 0.794
+  p1: 0.457
+  p50: 0.457
+  p99: 0.457
+  stddev: 0.1685
+- uri: /history/362
+  cnt: 4
+  max: 0.799
+  min: 0.442
+  sum: 2.677
+  anv: 0.66925
+  method: GET
+  max_body: 2918
+  min_body: 2909
+  sum_body: 11654
+  avg_body: 2913.5
+  percentails:
+  - requesttime: 0.442
+  - requesttime: 0.65
+  - requesttime: 0.786
+  - requesttime: 0.799
+  p1: 0.442
+  p50: 0.65
+  p99: 0.786
+  stddev: 0.14359558
+- uri: /history/287
+  cnt: 2
+  max: 0.82
+  min: 0.658
+  sum: 1.478
+  anv: 0.739
+  method: GET
+  max_body: 2918
+  min_body: 2918
+  sum_body: 5836
+  avg_body: 2918
+  percentails:
+  - requesttime: 0.658
+  - requesttime: 0.82
+  p1: 0.658
+  p50: 0.658
+  p99: 0.658
+  stddev: 0.081
+- uri: /history/283
+  cnt: 2
+  max: 0.824
+  min: 0.394
+  sum: 1.218
+  anv: 0.609
+  method: GET
+  max_body: 2917
+  min_body: 2917
+  sum_body: 5834
+  avg_body: 2917
+  percentails:
+  - requesttime: 0.394
+  - requesttime: 0.824
+  p1: 0.394
+  p50: 0.394
+  p99: 0.394
+  stddev: 0.215
+- uri: /icons/164a720f716d0b01e6c66cb53a8d1367aaf4fc42.png
+  cnt: 1
+  max: 0.868
+  min: 0.868
+  sum: 0.868
+  anv: 0.868
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.868
+  p1: 0.868
+  p50: 0.868
+  p99: 0.868
+  stddev: 0
+- uri: /icons/ec48374ca1b2693ca643041659fb8372c72d1ddd.png
+  cnt: 1
+  max: 0.874
+  min: 0.874
+  sum: 0.874
+  anv: 0.874
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.874
+  p1: 0.874
+  p50: 0.874
+  p99: 0.874
+  stddev: 0
+- uri: /icons/8628ef0f034d734729e3a735362e6008b30bb72b.png
+  cnt: 1
+  max: 0.874
+  min: 0.874
+  sum: 0.874
+  anv: 0.874
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.874
+  p1: 0.874
+  p50: 0.874
+  p99: 0.874
+  stddev: 0
+- uri: /history/323
+  cnt: 2
+  max: 0.915
+  min: 0.851
+  sum: 1.766
+  anv: 0.883
+  method: GET
+  max_body: 2911
+  min_body: 2911
+  sum_body: 5822
+  avg_body: 2911
+  percentails:
+  - requesttime: 0.851
+  - requesttime: 0.915
+  p1: 0.851
+  p50: 0.851
+  p99: 0.851
+  stddev: 0.032
+- uri: /history/353
+  cnt: 2
+  max: 1.045
+  min: 0.79
+  sum: 1.835
+  anv: 0.9175
+  method: GET
+  max_body: 2914
+  min_body: 0
+  sum_body: 2914
+  avg_body: 1457
+  percentails:
+  - requesttime: 0.79
+  - requesttime: 1.045
+  p1: 0.79
+  p50: 0.79
+  p99: 0.79
+  stddev: 0.1275
+- uri: /history/341
+  cnt: 1
+  max: 1.188
+  min: 1.188
+  sum: 1.188
+  anv: 1.188
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 1.188
+  p1: 1.188
+  p50: 1.188
+  p99: 1.188
+  stddev: 0
+- uri: /icons/b7a3dd99aa1fee2a5b7d6a70229c7ddfcf250d31..png
+  cnt: 2
+  max: 1.214
+  min: 1.186
+  sum: 2.4
+  anv: 1.2
+  method: GET
+  max_body: 56560
+  min_body: 56537
+  sum_body: 113097
+  avg_body: 56548.5
+  percentails:
+  - requesttime: 1.186
+  - requesttime: 1.214
+  p1: 1.186
+  p50: 1.186
+  p99: 1.186
+  stddev: 0.014
+- uri: /icons/3f6591acbf1577185cd7c674f0ec36efcc9c4970.png
+  cnt: 1
+  max: 1.313
+  min: 1.313
+  sum: 1.313
+  anv: 1.313
+  method: GET
+  max_body: 252395
+  min_body: 252395
+  sum_body: 252395
+  avg_body: 252395
+  percentails:
+  - requesttime: 1.313
+  p1: 1.313
+  p50: 1.313
+  p99: 1.313
+  stddev: 0
+- uri: /icons/c2d161d74b4e6b6541974a473bf0a9dfb01579dd.png
+  cnt: 1
+  max: 1.313
+  min: 1.313
+  sum: 1.313
+  anv: 1.313
+  method: GET
+  max_body: 434151
+  min_body: 434151
+  sum_body: 434151
+  avg_body: 434151
+  percentails:
+  - requesttime: 1.313
+  p1: 1.313
+  p50: 1.313
+  p99: 1.313
+  stddev: 0
+- uri: /icons/4222f36590fbd90f9b7179efaa582ae51c777c52.jpg
+  cnt: 1
+  max: 1.318
+  min: 1.318
+  sum: 1.318
+  anv: 1.318
+  method: GET
+  max_body: 330099
+  min_body: 330099
+  sum_body: 330099
+  avg_body: 330099
+  percentails:
+  - requesttime: 1.318
+  p1: 1.318
+  p50: 1.318
+  p99: 1.318
+  stddev: 0
+- uri: /profile
+  cnt: 20
+  max: 1.355
+  min: 0.008
+  sum: 11.73
+  anv: 0.5865
+  method: POST
+  max_body: 32
+  min_body: 0
+  sum_body: 479
+  avg_body: 23.95
+  percentails:
+  - requesttime: 0.008
+  - requesttime: 0.008
+  - requesttime: 0.029
+  - requesttime: 0.08
+  - requesttime: 0.111
+  - requesttime: 0.121
+  - requesttime: 0.37
+  - requesttime: 0.488
+  - requesttime: 0.663
+  - requesttime: 0.71
+  - requesttime: 0.727
+  - requesttime: 0.743
+  - requesttime: 0.753
+  - requesttime: 0.795
+  - requesttime: 0.854
+  - requesttime: 0.885
+  - requesttime: 0.941
+  - requesttime: 1.024
+  - requesttime: 1.065
+  - requesttime: 1.355
+  p1: 0.008
+  p50: 0.71
+  p99: 1.065
+  stddev: 0.39811173
+- uri: /icons/bf37d9ee523c443a410f532a828ed9197da95329.png
+  cnt: 1
+  max: 1.358
+  min: 1.358
+  sum: 1.358
+  anv: 1.358
+  method: GET
+  max_body: 100765
+  min_body: 100765
+  sum_body: 100765
+  avg_body: 100765
+  percentails:
+  - requesttime: 1.358
+  p1: 1.358
+  p50: 1.358
+  p99: 1.358
+  stddev: 0
+- uri: /icons/541bd3a853096f172a2d87898ed47a97ba1da1ee.png
+  cnt: 2
+  max: 1.382
+  min: 1.314
+  sum: 2.696
+  anv: 1.348
+  method: GET
+  max_body: 490155
+  min_body: 490155
+  sum_body: 980310
+  avg_body: 490155
+  percentails:
+  - requesttime: 1.314
+  - requesttime: 1.382
+  p1: 1.314
+  p50: 1.314
+  p99: 1.314
+  stddev: 0.034
+- uri: /icons/846f4f0bde2a2103c71936091e82bc1354f11b3a.png
+  cnt: 1
+  max: 1.387
+  min: 1.387
+  sum: 1.387
+  anv: 1.387
+  method: GET
+  max_body: 149116
+  min_body: 149116
+  sum_body: 149116
+  avg_body: 149116
+  percentails:
+  - requesttime: 1.387
+  p1: 1.387
+  p50: 1.387
+  p99: 1.387
+  stddev: 0
+- uri: /icons/c192f5cb12a1e37d0e5ada0c2fa5335d016b912c.png
+  cnt: 1
+  max: 1.42
+  min: 1.42
+  sum: 1.42
+  anv: 1.42
+  method: GET
+  max_body: 688126
+  min_body: 688126
+  sum_body: 688126
+  avg_body: 688126
+  percentails:
+  - requesttime: 1.42
+  p1: 1.42
+  p50: 1.42
+  p99: 1.42
+  stddev: 0
+- uri: /icons/ba05f8d186ab9c5270276176187eb0361b06baef.png
+  cnt: 2
+  max: 1.487
+  min: 1.358
+  sum: 2.845
+  anv: 1.4225
+  method: GET
+  max_body: 543746
+  min_body: 543746
+  sum_body: 1.087492e+06
+  avg_body: 543746
+  percentails:
+  - requesttime: 1.358
+  - requesttime: 1.487
+  p1: 1.358
+  p50: 1.358
+  p99: 1.358
+  stddev: 0.0645
+- uri: /icons/5e981ef46ec0f47bdc2f188673325b85078f5235.png
+  cnt: 2
+  max: 1.511
+  min: 1.377
+  sum: 2.888
+  anv: 1.444
+  method: GET
+  max_body: 769353
+  min_body: 769345
+  sum_body: 1.538698e+06
+  avg_body: 769349
+  percentails:
+  - requesttime: 1.377
+  - requesttime: 1.511
+  p1: 1.377
+  p50: 1.377
+  p99: 1.377
+  stddev: 0.067
+- uri: /icons/0614f0cea1b70fb71b4c3b88545a42327157a41e.jpg
+  cnt: 2
+  max: 1.535
+  min: 1.378
+  sum: 2.913
+  anv: 1.4565
+  method: GET
+  max_body: 559688
+  min_body: 559688
+  sum_body: 1.119376e+06
+  avg_body: 559688
+  percentails:
+  - requesttime: 1.378
+  - requesttime: 1.535
+  p1: 1.378
+  p50: 1.378
+  p99: 1.378
+  stddev: 0.0785
+- uri: /icons/78a9228a393eb2621f346fc6a5e099d5bc373f76.png
+  cnt: 2
+  max: 1.564
+  min: 1.407
+  sum: 2.971
+  anv: 1.4855
+  method: GET
+  max_body: 682495
+  min_body: 682495
+  sum_body: 1.36499e+06
+  avg_body: 682495
+  percentails:
+  - requesttime: 1.407
+  - requesttime: 1.564
+  p1: 1.407
+  p50: 1.407
+  p99: 1.407
+  stddev: 0.0785
+- uri: /icons/65ea5a70b1fcf8f5f816b01b87f2aca2251315b0.png
+  cnt: 1
+  max: 1.576
+  min: 1.576
+  sum: 1.576
+  anv: 1.576
+  method: GET
+  max_body: 299550
+  min_body: 299550
+  sum_body: 299550
+  avg_body: 299550
+  percentails:
+  - requesttime: 1.576
+  p1: 1.576
+  p50: 1.576
+  p99: 1.576
+  stddev: 0
+- uri: /icons/9ffcd7cee7e5947b204db47c5738150e09e685e1.png
+  cnt: 2
+  max: 1.615
+  min: 1.321
+  sum: 2.936
+  anv: 1.468
+  method: GET
+  max_body: 202595
+  min_body: 202587
+  sum_body: 405182
+  avg_body: 202591
+  percentails:
+  - requesttime: 1.321
+  - requesttime: 1.615
+  p1: 1.321
+  p50: 1.321
+  p99: 1.321
+  stddev: 0.147
+- uri: /icons/aa8c2a9a793eb1414c45fd2f46f08096d5f7cb69.png
+  cnt: 1
+  max: 1.63
+  min: 1.63
+  sum: 1.63
+  anv: 1.63
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 1.63
+  p1: 1.63
+  p50: 1.63
+  p99: 1.63
+  stddev: 0
+- uri: /icons/f03c4f9c623562d824399f660f619f22dc88763e.png
+  cnt: 1
+  max: 1.63
+  min: 1.63
+  sum: 1.63
+  anv: 1.63
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 1.63
+  p1: 1.63
+  p50: 1.63
+  p99: 1.63
+  stddev: 0
+- uri: /icons/2917ace8d8d4e5e1df4e4ce8f6bf03c1fb9ab162.png
+  cnt: 2
+  max: 1.631
+  min: 1.392
+  sum: 3.023
+  anv: 1.5115
+  method: GET
+  max_body: 423369
+  min_body: 0
+  sum_body: 423369
+  avg_body: 211684.5
+  percentails:
+  - requesttime: 1.392
+  - requesttime: 1.631
+  p1: 1.392
+  p50: 1.392
+  p99: 1.392
+  stddev: 0.1195
+- uri: /icons/d6ad2e7df048b8691a8223482adf654ae03376af.png
+  cnt: 1
+  max: 1.638
+  min: 1.638
+  sum: 1.638
+  anv: 1.638
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 1.638
+  p1: 1.638
+  p50: 1.638
+  p99: 1.638
+  stddev: 0
+- uri: /icons/5dc48c74e0f923aa2a4acbe786d3cbe2512c6767.png
+  cnt: 1
+  max: 1.638
+  min: 1.638
+  sum: 1.638
+  anv: 1.638
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 1.638
+  p1: 1.638
+  p50: 1.638
+  p99: 1.638
+  stddev: 0
+- uri: /icons/bde120814720fb3bee14f415b4001305868df456.png
+  cnt: 1
+  max: 1.839
+  min: 1.839
+  sum: 1.839
+  anv: 1.839
+  method: GET
+  max_body: 295337
+  min_body: 295337
+  sum_body: 295337
+  avg_body: 295337
+  percentails:
+  - requesttime: 1.839
+  p1: 1.839
+  p50: 1.839
+  p99: 1.839
+  stddev: 0
+- uri: /icons/7598595abd317f5ae637300a27f95e3c700376a7.png
+  cnt: 1
+  max: 1.924
+  min: 1.924
+  sum: 1.924
+  anv: 1.924
+  method: GET
+  max_body: 437350
+  min_body: 437350
+  sum_body: 437350
+  avg_body: 437350
+  percentails:
+  - requesttime: 1.924
+  p1: 1.924
+  p50: 1.924
+  p99: 1.924
+  stddev: 0
+- uri: /history/299
+  cnt: 3
+  max: 2.849
+  min: 0.712
+  sum: 5.574
+  anv: 1.858
+  method: GET
+  max_body: 7309
+  min_body: 0
+  sum_body: 7309
+  avg_body: 2436.3333
+  percentails:
+  - requesttime: 0.712
+  - requesttime: 2.013
+  - requesttime: 2.849
+  p1: 0.712
+  p50: 0.712
+  p99: 2.013
+  stddev: 0.8792842
+- uri: /icons/b4f9effc4d9e86b58b271f5652b51dd997036d43.png
+  cnt: 4
+  max: 3.457
+  min: 0.868
+  sum: 7.151
+  anv: 1.78775
+  method: GET
+  max_body: 428728
+  min_body: 0
+  sum_body: 857456
+  avg_body: 214364
+  percentails:
+  - requesttime: 0.868
+  - requesttime: 1.319
+  - requesttime: 1.507
+  - requesttime: 3.457
+  p1: 0.868
+  p50: 1.319
+  p99: 1.507
+  stddev: 0.9913227
+- uri: /icons/3bb9df05ed10fa7a086183bf2799e132631a93ce.png
+  cnt: 1
+  max: 3.458
+  min: 3.458
+  sum: 3.458
+  anv: 3.458
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 3.458
+  p1: 3.458
+  p50: 3.458
+  p99: 3.458
+  stddev: 0
+- uri: /icons/60c8a6a07eafc18c9d37dc0e00f26e8fadd6c125.jpg
+  cnt: 2
+  max: 3.46
+  min: 0.866
+  sum: 4.326
+  anv: 2.163
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 0.866
+  - requesttime: 3.46
+  p1: 0.866
+  p50: 0.866
+  p99: 0.866
+  stddev: 1.297
+- uri: /icons/c3e70129aeb6397568d97c8261b134547c31f4dc.png
+  cnt: 1
+  max: 3.46
+  min: 3.46
+  sum: 3.46
+  anv: 3.46
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 3.46
+  p1: 3.46
+  p50: 3.46
+  p99: 3.46
+  stddev: 0
+- uri: /icons/1d76784a308ce4cabc26ee143e6be5ac64eaa494.png
+  cnt: 2
+  max: 3.46
+  min: 1.296
+  sum: 4.756
+  anv: 2.378
+  method: GET
+  max_body: 91667
+  min_body: 0
+  sum_body: 91667
+  avg_body: 45833.5
+  percentails:
+  - requesttime: 1.296
+  - requesttime: 3.46
+  p1: 1.296
+  p50: 1.296
+  p99: 1.296
+  stddev: 1.082
+- uri: /icons/9152bd50720b3e825a7e193ff062e6fe13e72ef9.png
+  cnt: 1
+  max: 3.46
+  min: 3.46
+  sum: 3.46
+  anv: 3.46
+  method: GET
+  max_body: 0
+  min_body: 0
+  sum_body: 0
+  avg_body: 0
+  percentails:
+  - requesttime: 3.46
+  p1: 3.46
+  p50: 3.46
+  p99: 3.46
+  stddev: 0
+- uri: /history/10
+  cnt: 7
+  max: 3.596
+  min: 1.633
+  sum: 16.36
+  anv: 2.337143
+  method: GET
+  max_body: 9316
+  min_body: 0
+  sum_body: 43908
+  avg_body: 6272.5713
+  percentails:
+  - requesttime: 1.633
+  - requesttime: 2.007
+  - requesttime: 2.032
+  - requesttime: 2.125
+  - requesttime: 2.31
+  - requesttime: 2.657
+  - requesttime: 3.596
+  p1: 1.633
+  p50: 2.032
+  p99: 2.657
+  stddev: 0.58927256
+- uri: /icons/default.png
+  cnt: 3
+  max: 7.348
+  min: 1.263
+  sum: 9.906
+  anv: 3.302
+  method: GET
+  max_body: 52335
+  min_body: 0
+  sum_body: 104670
+  avg_body: 34890
+  percentails:
+  - requesttime: 1.263
+  - requesttime: 1.295
+  - requesttime: 7.348
+  p1: 1.263
+  p50: 1.263
+  p99: 1.295
+  stddev: 2.8609838
+- uri: /fetch
+  cnt: 29
+  max: 7.753
+  min: 0.002
+  sum: 168.284
+  anv: 5.8028965
+  method: GET
+  max_body: 3008
+  min_body: 0
+  sum_body: 21052
+  avg_body: 725.931
+  percentails:
+  - requesttime: 0.002
+  - requesttime: 0.066
+  - requesttime: 1.431
+  - requesttime: 2.121
+  - requesttime: 2.139
+  - requesttime: 2.141
+  - requesttime: 2.179
+  - requesttime: 2.196
+  - requesttime: 2.213
+  - requesttime: 7.576
+  - requesttime: 7.583
+  - requesttime: 7.611
+  - requesttime: 7.617
+  - requesttime: 7.629
+  - requesttime: 7.67
+  - requesttime: 7.695
+  - requesttime: 7.709
+  - requesttime: 7.714
+  - requesttime: 7.715
+  - requesttime: 7.716
+  - requesttime: 7.717
+  - requesttime: 7.724
+  - requesttime: 7.725
+  - requesttime: 7.725
+  - requesttime: 7.727
+  - requesttime: 7.729
+  - requesttime: 7.73
+  - requesttime: 7.731
+  - requesttime: 7.753
+  p1: 0.002
+  p50: 7.629
+  p99: 7.731
+  stddev: 2.854884
+- uri: /message
+  cnt: 85
+  max: 9.431
+  min: 0.002
+  sum: 399.627
+  anv: 4.701494
+  method: GET
+  max_body: 52374
+  min_body: 0
+  sum_body: 225271
+  avg_body: 2650.247
+  percentails:
+  - requesttime: 0.002
+  - requesttime: 0.005
+  - requesttime: 0.005
+  - requesttime: 0.07
+  - requesttime: 0.111
+  - requesttime: 0.155
+  - requesttime: 0.167
+  - requesttime: 0.214
+  - requesttime: 0.221
+  - requesttime: 0.226
+  - requesttime: 0.256
+  - requesttime: 0.263
+  - requesttime: 0.389
+  - requesttime: 0.4
+  - requesttime: 0.408
+  - requesttime: 0.412
+  - requesttime: 0.417
+  - requesttime: 0.418
+  - requesttime: 0.439
+  - requesttime: 0.446
+  - requesttime: 0.446
+  - requesttime: 0.451
+  - requesttime: 0.457
+  - requesttime: 0.459
+  - requesttime: 0.46
+  - requesttime: 0.469
+  - requesttime: 0.473
+  - requesttime: 0.474
+  - requesttime: 0.476
+  - requesttime: 0.476
+  - requesttime: 0.477
+  - requesttime: 0.485
+  - requesttime: 0.498
+  - requesttime: 0.509
+  - requesttime: 0.51
+  - requesttime: 0.516
+  - requesttime: 0.521
+  - requesttime: 0.524
+  - requesttime: 0.537
+  - requesttime: 0.576
+  - requesttime: 0.607
+  - requesttime: 2.274
+  - requesttime: 3.642
+  - requesttime: 4.94
+  - requesttime: 6.468
+  - requesttime: 8.844
+  - requesttime: 8.865
+  - requesttime: 8.881
+  - requesttime: 8.893
+  - requesttime: 8.902
+  - requesttime: 8.902
+  - requesttime: 8.922
+  - requesttime: 9.017
+  - requesttime: 9.026
+  - requesttime: 9.035
+  - requesttime: 9.057
+  - requesttime: 9.07
+  - requesttime: 9.105
+  - requesttime: 9.114
+  - requesttime: 9.119
+  - requesttime: 9.122
+  - requesttime: 9.138
+  - requesttime: 9.14
+  - requesttime: 9.151
+  - requesttime: 9.168
+  - requesttime: 9.201
+  - requesttime: 9.207
+  - requesttime: 9.24
+  - requesttime: 9.256
+  - requesttime: 9.264
+  - requesttime: 9.277
+  - requesttime: 9.283
+  - requesttime: 9.295
+  - requesttime: 9.303
+  - requesttime: 9.311
+  - requesttime: 9.323
+  - requesttime: 9.335
+  - requesttime: 9.352
+  - requesttime: 9.365
+  - requesttime: 9.367
+  - requesttime: 9.376
+  - requesttime: 9.387
+  - requesttime: 9.413
+  - requesttime: 9.421
+  - requesttime: 9.431
+  p1: 0.002
+  p50: 2.274
+  p99: 9.421
+  stddev: 4.309968
